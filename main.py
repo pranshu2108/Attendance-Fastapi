@@ -90,7 +90,7 @@ def getAllatt():
     getAll_att = db.query(models.attendance).all()
     return getAll_att
 
-@app.get("/attendance/{emp_id}", response_model=List[attendance])
+@app.get("/attendance of employee", response_model=List[attendance])
 def read_attendance(emp_id: int,):
 
     attendances = db.query(models.attendance).filter(models.attendance.id == emp_id).all()
