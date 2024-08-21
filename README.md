@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6c05ef52-bdec-4911-a12a-c5b0fc1c3d3b)# Attendance System
+# Attendance System
 
 ## Overview
 
