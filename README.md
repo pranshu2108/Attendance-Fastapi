@@ -8,7 +8,6 @@ The Attendance System is a modern application designed to track and manage atten
 
 - **User Management**: Add, update, and delete users.
 - **Attendance Tracking**: Mark attendance and view attendance history.
-- **Reports**: Generate and export attendance reports.
 - **Authentication**: Secure access with user authentication.
 
 ## Tech Stack
